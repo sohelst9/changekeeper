@@ -31,7 +31,7 @@
 <body class="bg-light">
 <div class="container">
     <div class="py-5 text-center">
-        <h2>Hosted Payment - SSLCommerz ssss  ss</h2>
+        <h2>Hosted Payment - SSLCommerz</h2>
     </div>
     <div class="row">
         <div class="col-md-6 m-auto order-md-1">
